@@ -1,3 +1,9 @@
+## VoodooI2C ELAN0406 Fork
+
+This fork doubles the timeout during boot to temporarily fix ELAN0406's I2C bus timeout tendencies. This fork has been tested on Razer Blade Advanced Mid-2019.
+
+##
+
 [![release](https://img.shields.io/github/release/alexandred/VoodooI2C.svg)](https://github.com/VoodooI2C/VoodooI2C/releases)
 [![circleci](https://circleci.com/gh/VoodooI2C/VoodooI2C.svg?style=shield&circle-token=:circle-token)](https://github.com/VoodooI2C/VoodooI2C/releases)
 [![Gitter chat](https://img.shields.io/gitter/room/nwjs/nw.js.svg?colorB=ed1965)](https://gitter.im/alexandred/VoodooI2C)
